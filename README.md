@@ -47,8 +47,9 @@
   </li>
     <ul>
       <li>What are some key limitations of the model you created?</li>
-      <p>I think the fact that I didn't have access to different styles of each item was a pretty big limitation, since if I were to show the model a white wallet instead of my black wallet, it would most likely mistake it as something else. </p>
+      <p>- I think the fact that I didn't have access to different styles of each item was a pretty big limitation, since if I were to show the model a white wallet instead of my black wallet, it would most likely mistake it as something else. I also think that not having the time to take hundreds of thousands of images of each item in order to properly train the model was another limitation.</p>
       <li>Why is it useful to be able to download your trained model files and share them? What does this enable?</li>
+      <p>- I think it is useful to be able to download my trained model files and share them, so that other people can see them, use them, and be able to make suggestions in order to make the model better. This seems to enable the ability to bug fix and version the model in order to make a better model, similar to what they do with ChatGPT and other AI models.</p>
     </ul>
   <li>
     <h3>Real-World Application & Ethics:</h3>
