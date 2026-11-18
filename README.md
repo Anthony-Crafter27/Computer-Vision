@@ -27,8 +27,11 @@
   </li>
     <ul>
       <li>Which objects were the easiest for your model to learn and distinguish? Why do you think that was?</li>
+      <p>The water bottle was the easiest for my model to learn and distinguish. I think this is the case, since the images taken of it might've been easier for the AI to comprehend.</p>
       <li>Which objects were the most challenging? What made them difficult?</li>
+      <p>I would say the mouse and phone were the most challenging. I think the thing that made them more difficult for the AI to figure out was the lack of quality of the images, since I was still trying to figure out how I should angle my webcam in order to get image data for the AI.</p>
       <li>What happened when you Showed the model an object it wasn't trained on? How did the confidence scores behave, and why is this significant?</li>
+      <p>When the model saw my face, it said I was a water bottle. Last time I checked, I didn't look like a water bottle. The confidence scores showed 100% in the water bottle category, with 0% on everything else. I think this is significant, since this could be a sign of overfitting.</p>
     </ul>
   <li>
     <h3>Bias in AI:</h3>
