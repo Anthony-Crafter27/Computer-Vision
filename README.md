@@ -40,13 +40,14 @@
       <li>If you only trained your "mug" class with images of *your specific mug* how well do you think it would recognize other students' significantly different mugs? how does this illustrate the concept of bias being introduced through training data?</li>
       <p>- If I only trained my water bottle class with images of my water bottle, I don't think it would be able to recognize other students' significantly different water bottles all too well. I think there is a chance it might be able to see the plastic bottle shape of a water bottle of a different brand and classify it correctly, but it could very well be a 50/50 chance. I think this illustrates the concept of bias by showing me that the AI will most likely either default to whatever it knows best, or it will see an image of my face with similar noise to the image of the water bottle and default to guessing that I'm a water bottle.</p>
       <li>Imagine all your training images were taken in very bright, direct lighting. What might happen if you tried to use the model in a dimly lit room or with strong shadows? How does this relate to the robustness and potential biases of AI models?</li>
-      <p></p>
+      <p>- If I tried to use the model in a dimly lit room with strong shadows after training it off of images taken in bright, direct lighting, I think it would most likely misclassify whatever is placed in front of it. I think a biased AI wouldn't be very robust when it comes to looking at new data, since it would have memorized whatever it was given instead of learning the outlines and general makeup of each item, causing bias in the first place.</p>
     </ul>
   <li>
     <h3>Model Limitations & Usefulness:</h3>
   </li>
     <ul>
       <li>What are some key limitations of the model you created?</li>
+      <p>I think the fact that I didn't have access to different styles of each item was a pretty big limitation, since if I were to show the model a white wallet instead of my black wallet, it would most likely mistake it as something else. </p>
       <li>Why is it useful to be able to download your trained model files and share them? What does this enable?</li>
     </ul>
   <li>
