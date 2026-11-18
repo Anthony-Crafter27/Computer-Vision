@@ -38,7 +38,9 @@
   </li>
     <ul>
       <li>If you only trained your "mug" class with images of *your specific mug* how well do you think it would recognize other students' significantly different mugs? how does this illustrate the concept of bias being introduced through training data?</li>
+      <p>If I only trained my water bottle class with images of my water bottle, I don't think it would be able to recognize other students' significantly different water bottles all too well. I think there is a chance it might be able to see the plastic bottle shape of a water bottle of a different brand and classify it correctly, but it could very well be a 50/50 chance. I think this illustrates the concept of bias by showing me that the AI will most likely either default to whatever it knows best, or it will see an image of my face with similar noise to the image of the water bottle and default to guessing that I'm a water bottle.</p>
       <li>Imagine all your training images were taken in very bright, direct lighting. What might happen if you tried to use the model in a dimly lit room or with strong shadows? How does this relate to the robustness and potential biases of AI models?</li>
+      <p></p>
     </ul>
   <li>
     <h3>Model Limitations & Usefulness:</h3>
