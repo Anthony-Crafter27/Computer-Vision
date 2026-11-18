@@ -56,6 +56,7 @@
   </li>
     <ul>
       <li>Brainstorm 2-3 real-world applications where a similar image classification model could be useful.</li>
+      <p>I think a similar image classification model could potentially be used to monitor manufactured items for physical defects, looking at x-ray images for broken bones, or to check for spoiled food in a refrigerator.</p>
       <li>Briefly discuss one ethical consideration that developers should keep in mind when building and deploying image recognition AI in the real world.</li>
     </ul>
 </ol>
