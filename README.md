@@ -1,4 +1,4 @@
-<!--I already know some pretty basic HTML, so I did this by hand for fun.-->
+<!--I already know a little bit of HTML, so I did this by hand for fun.-->
 <h1>Computer Vision</h1>
 <h2>Project Description</h2>
 <p>This project uses Google's Teachable Machine in order to classify objects found on my desk.</p>
@@ -16,8 +16,11 @@
   </li>
     <ul>
       <li>How accurate was your first trained model?</li>
+      <p>I would say that my first trained model wasn't the most accurate.</p>
       <li>What steps did you take to iterate and improve its performance?</li>
+      <p>I took more pictures of each item at different angles in order to try and improve its performance.</p>
       <li>How did these changes affect the model's accuracy and confidence scores?</li>
+      <p>I think these changes helped in making the model more accurate.</p>
     </ul>
   <li>
     <h3>Challenges & Observations:</h3>
